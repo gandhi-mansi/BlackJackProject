@@ -8,7 +8,7 @@ This repo contains the output files with respect to the [JavaScript Crash Course
 
 ## Live Demonstration of the Output
 
-  LIVE Demonstration on Netlify: [Click Here](https://agitated-brown-9f8c80.netlify.app/)
+  LIVE Demonstration on Vercel: [Click Here](https://black-jack-project.vercel.app/)
 
 ## Installation
 
